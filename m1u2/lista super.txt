@@ -1,8 +1,6 @@
 pan
 
-bananas
-manzanas
-peras
+
 
 
 sandia 
