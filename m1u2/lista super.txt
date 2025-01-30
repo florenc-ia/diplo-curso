@@ -1,0 +1,8 @@
+pan
+galletas
+bananas
+manzanas
+peras
+naranjas
+licuado
+uva
