@@ -1,8 +1,9 @@
 pan
-galletas
+
 bananas
 manzanas
 peras
-naranjas
-licuado
-uva
+
+
+sandia 
+papas 
